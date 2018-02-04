@@ -1,6 +1,11 @@
 # BINGO
 BINGO game 
 
+シンプルで簡単なビンゴゲームアプリです．
+
+既に出た数字かどうかの検索機能付きです．
+
+直前に出た数字は， 小さく上の方に表示されます．
 
 # Code
 Langage is Swift and the code "ViewController.swift" is in "simu" directory.
