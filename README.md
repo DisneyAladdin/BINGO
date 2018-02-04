@@ -2,10 +2,10 @@
 BINGO game 
 
 # USAGE
- -START  ---> push Button
- -the number just before ----> above
- -Search number ---> enter the number and push "search" button.
+ To start BINGO, push Button. 
+ The number just before is indicated in black color with small.
+ If you search number, enter the number to TextField and push "search" button.
 
-#Copyright
+# Copyright
  Shuto Kawabata
  2018/02/04
