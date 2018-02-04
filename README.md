@@ -11,6 +11,12 @@ Langage is Swift and the code "ViewController.swift" is in "simu" directory.
  The number just before is indicated in black color with small.
  If you search number, enter the number to TextField and push "search" button.
 
-# Copyright
- Shuto Kawabata
- 2018/02/04
+# Licence
+CopyRight (c) 2018 Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
+
+# Author
+Shuto Kawabata
