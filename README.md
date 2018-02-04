@@ -1,6 +1,11 @@
 # BINGO
 BINGO game 
 
+
+# Code
+Langage is Swift and the code "ViewController.swift" is in "simu" directory.
+
+
 # USAGE
  To start BINGO, push Button. 
  The number just before is indicated in black color with small.
