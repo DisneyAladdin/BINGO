@@ -8,7 +8,7 @@ BINGO game for iPhone or iPad
 直前に出た数字は， 小さく上の方に表示されます．
 
 # Code
-Langage is Swift and the code "ViewController.swift" is in "simu" directory.
+https://github.com/shutokawabata0723/BINGO/blob/master/simu/ViewController.swift
 
 
 # USAGE
