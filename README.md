@@ -21,11 +21,11 @@ Langage is Swift and the code "ViewController.swift" is in "simu" directory.
  
  If the number has aready appeared, "ALREADY" appears.
  
- <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-already.png" width="360px">
+ <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-already.png" width="500px">
 
  Else, "YET" appears
  
- <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-yet.png" width="360px">
+ <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-yet.png" width="500px">
  
 # Licence
 CopyRight (c) 2018 Shuto Kawabata
