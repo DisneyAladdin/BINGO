@@ -16,7 +16,7 @@ Langage is Swift and the code "ViewController.swift" is in "simu" directory.
  
  <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-start.png" width="360px">
  
- The number just before is indicated in black color.
+ The number just one before is shown in black color.
  You can search number. Please enter the number to TextField and push "search" button.
  
  If the number has aready appeared, "ALREADY" appears.
