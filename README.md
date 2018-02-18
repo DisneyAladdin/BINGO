@@ -1,5 +1,5 @@
 # BINGO
-BINGO game 
+BINGO game for iPhone or iPad
 
 シンプルで簡単なビンゴゲームアプリです．
 
