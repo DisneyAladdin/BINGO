@@ -113,7 +113,7 @@ class ViewController: UIViewController {
  
  <img src="http://seoconsultant.sakura.ne.jp/shuto/data/fig/bingo-start.png" width="360px">
  
- The number just one before is shown in black color.<br>
+ The number just one before is shown with black color.<br>
  You can search number. Please enter the number to TextField and push "search" button.
  
  If the number has aready appeared, "ALREADY" appears.
